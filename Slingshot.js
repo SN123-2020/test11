@@ -33,6 +33,8 @@ class SlingShot{
             
             stroke(48,22,8);
 
+            //testing
+
             if (pointA.x<220){
                 strokeWeight(7);
                 line(pointA.x-20,pointA.y,pointB.x-10,pointB.y);
